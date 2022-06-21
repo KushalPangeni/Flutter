@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "202365382875",
+    "project_id": "cms6thsem",
+    "storage_bucket": "cms6thsem.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:202365382875:android:652e159b98d82eb1f6dcfe",
+        "android_client_info": {
+          "package_name": "com.kushal.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "202365382875-cb5njlsvnh4qmsg0idr358ntsh2llnbu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKnj5Sx5FM8yC0smDrYxbQqIWAG5M28f0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "202365382875-cb5njlsvnh4qmsg0idr358ntsh2llnbu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
